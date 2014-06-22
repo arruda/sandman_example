@@ -4,7 +4,7 @@ Packages Reviews - Sandman
 
 Aplicação de exemplo do pacote Sandman
 -----------------------------------
-Mais informações no tutorial: http://algum_link
+Mais informações no tutorial: http://www.arruda.blog.br/programacao/packages-review-sandman-apis-rest-simples
 
 
 Instalação:
